@@ -1,1 +1,1 @@
-<img src="https://pixabay.com/get/ga3de23e3c9d011af318b3d450e918c6e9802008b5875eaec3cfe1410fa76db8a0be73c4a302ad4723d53d24e18a23bb23255435d284814cdb430ce43ea41a3781edce6c52c4aaab829c4ee33c623b78f_1280.png/https://www.CodeDiggs.com/" width="500" height="500"/>
+[![icon_200x200](https://user-images.githubusercontent.com/46950400/220654810-335ec4ed-86cd-4ed8-b528-f9b5aa82719c.png "CodeDiggs")](https://www.CodeDiggs.com/)
