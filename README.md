@@ -88,9 +88,6 @@
 
 ## 🔗 Social Media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diggty66/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/CodeDiggs/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/diggty66/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discordapp.com/users/343414282698096650/)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto)](https://dev.to/diggty66)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/10963792/diggty66)
