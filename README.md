@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey, I'm John 👋</h1>
-<p align="center"><i>she/her | Software Engineer | Python Dev | AI + Data Science Tinkerer | Ex-Avionics Tech</i></p>
+<p align="center"><i>He/Him | Software Engineer | Python Dev | AI + Data Science Tinkerer | Ex-Avionics Tech</i></p>
 <h3 align="center">Engineer. Builder. Context Architect. | B.A. in Computing & Informatics, Minor: C.S.</h3>
 
 ---
